@@ -1,0 +1,8 @@
+C:\Users\hank\Desktop\framework\if-else-ternary\if-else-ternary\bin\Debug\if-else-ternary.exe.config
+C:\Users\hank\Desktop\framework\if-else-ternary\if-else-ternary\bin\Debug\if-else-ternary.exe
+C:\Users\hank\Desktop\framework\if-else-ternary\if-else-ternary\bin\Debug\if-else-ternary.pdb
+C:\Users\hank\Desktop\framework\if-else-ternary\if-else-ternary\obj\Debug\if-else-ternary.csproj.AssemblyReference.cache
+C:\Users\hank\Desktop\framework\if-else-ternary\if-else-ternary\obj\Debug\if-else-ternary.csproj.SuggestedBindingRedirects.cache
+C:\Users\hank\Desktop\framework\if-else-ternary\if-else-ternary\obj\Debug\if-else-ternary.csproj.CoreCompileInputs.cache
+C:\Users\hank\Desktop\framework\if-else-ternary\if-else-ternary\obj\Debug\if-else-ternary.exe
+C:\Users\hank\Desktop\framework\if-else-ternary\if-else-ternary\obj\Debug\if-else-ternary.pdb
